@@ -2,7 +2,7 @@
 <%@ page session="false" %>
 <html>
 <head>
-	<title>LCM</title>
+	<title>LeeChoongMin</title>
 </head>
 <body>
 <h1>
@@ -10,6 +10,6 @@
 </h1>
 
 <P>  The time on the server is ${serverTime}. </P>
-<p> 이충민  1204</p>
+<p> LeeChoongMin  171204</p>
 </body>
 </html>
